@@ -1,0 +1,25 @@
+name: ebay_api_config
+
+# Trading API Sandbox - https://www.x.com/developers/ebay/products/trading-api
+api.sandbox.ebay.com:
+    compatability: 719
+    appid: lukeshar-Localcol-SBX-3eae9f383-eb5ab30f
+    certid: SBX-eae9f3832fa6-c8df-43d3-8c7b-a51e
+    devid: ID8711eb5c-b51e-46e5-9fa2-7b62f0a6779d
+    token: v^1.1#i^1#I^3#f^0#r^1#p^3#t^Ul4xMF81OkUwQkRDODE5MjNDRkRBRkJGQzM1QTE3NkE2REI3NzU2XzFfMSNFXjEyODQ=
+
+# Trading API - https://www.x.com/developers/ebay/products/trading-api
+api.ebay.com:
+    compatability: 719
+    appid: lukeshar-Localcol-PRD-4c58638cb-9bb9fb16
+    certid: PRD-c58638cb9d68-e729-4c19-8746-cd94
+    devid: ID8711eb5c-b51e-46e5-9fa2-7b62f0a6779
+    token: v^1.1#i^1#f^0#r^1#p^3#I^3#t^Ul4xMF83OjVBMjA4OTdGNDA3OEZGOTNGQzBDQURCM0I2N0IzQzFFXzFfMSNFXjI2MA==
+
+# Finding API - https://www.x.com/developers/ebay/products/finding-api
+svcs.ebay.com:
+    appid: lukeshar-Localcol-PRD-4c58638cb-9bb9fb16
+
+# Shopping API - https://www.x.com/developers/ebay/products/shopping-api
+open.api.ebay.com:
+    appid: lukeshar-Localcol-PRD-4c58638cb-9bb9fb16
